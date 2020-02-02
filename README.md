@@ -22,7 +22,7 @@ Have fun with the code. It's slow I know, maybe I can change the algorithm to ma
 
 
 <p align="center">
-  <img src="pixelated-image.png" width="350" title="How It Works?">
+  <img src="https://github.com/anilcanbulut/Pixelated-Image/blob/master/pixelated-image.png" width="350" title="How It Works?">
 </p>
 
 - The "width" variable in the code is the  
