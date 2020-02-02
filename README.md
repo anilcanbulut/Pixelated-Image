@@ -1,7 +1,7 @@
 # Pixelated-Image
 Lets pixelate our image!
 
--This code is created by Anilcan Bulut for fun.
+- This code is created by Anilcan Bulut for fun.
 It returns you a pixelated image of the provided input image.
 There are some parameters like kernel size, image height and width.
 
