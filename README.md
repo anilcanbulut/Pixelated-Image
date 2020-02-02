@@ -29,12 +29,12 @@ Have fun with the code. It's slow I know, maybe I can change the algorithm to ma
 - "kernel size" variable in the code is the orange arrow.
 - And the center of the kernel is the red shape, this is why we need odd sized kernel. Otherwise there wouldn't be a single pixel.
 
-# This is the input image:
+# This is the input image with 660*371 resolution:
 <p align="center">
   <img src="images/example-image.jpg" width="350" title="How It Works?">
 </p>
 
-# This is the resulting image:
+# This is the resulting image with kernel size of 9 and 180*180 resolution:
 <p align="center">
   <img src="images/resulting-image.jpg" width="350" title="How It Works?">
 </p>
