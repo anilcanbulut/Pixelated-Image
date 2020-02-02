@@ -28,3 +28,13 @@ Have fun with the code. It's slow I know, maybe I can change the algorithm to ma
 - The "width" variable in the code is the yellow arrow. Its value can be found as: (kernel_size - 1)/2
 - "kernel size" variable in the code is the orange arrow.
 - And the center of the kernel is the red shape, this is why we need odd sized kernel. Otherwise there wouldn't be a single pixel.
+
+# This is the input image:
+<p align="center">
+  <img src="images/example-image.jpg" width="350" title="How It Works?">
+</p>
+
+# This is the resulting image:
+<p align="center">
+  <img src="images/resulting-image.jpg" width="350" title="How It Works?">
+</p>
