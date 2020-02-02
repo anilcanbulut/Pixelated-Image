@@ -21,7 +21,7 @@ pixel coordinate is. Then give the center pixel's pixel value to the current pix
 Have fun with the code. It's slow I know, maybe I can change the algorithm to make it fast in the future.
 
 <p align="center">
-  <img src="pixelated-image.png" width="350" title="How It Works?">
+  <img src="pixelated_image.png" width="350" title="How It Works?">
 </p>
 
 
