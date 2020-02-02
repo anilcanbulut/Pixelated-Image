@@ -25,4 +25,6 @@ Have fun with the code. It's slow I know, maybe I can change the algorithm to ma
 </p>
 
 
-- The "width" variable in the code is the  
+- The "width" variable in the code is the yellow arrow. Its value can be found as: (kernel_size - 1)/2
+- "kernel size" variable in the code is the orange arrow.
+- And the center of the kernel is the red shape, this is why we need odd sized kernel. Otherwise there wouldn't be a single pixel.
