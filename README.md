@@ -20,4 +20,7 @@ pixel coordinate is. Then give the center pixel's pixel value to the current pix
 
 Have fun with the code. It's slow I know, maybe I can change the algorithm to make it fast in the future.
 
-![alt text](https://github.com/anilcanbulut/Pixelated-Image/blob/master/pixelated-image.png "How It Works?")
+
+<p align="center">
+  <img src="pixelated-image.png" width="350" title="hover text">
+</p>
